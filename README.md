@@ -8,9 +8,9 @@ Meta repository for Grav based Scribus Community Site site
 - Get the theme from Github
 - Get the pages from Github
 - Get the Publishing plugin from Github:
-   ```sh
-   $ cd user/plugins/
-  `$ git clone https://github.com/impagina/grav-plugin-git-publishing.git git-publishing
+  ```sh
+  $ cd user/plugins/
+  $ git clone https://github.com/impagina/grav-plugin-git-publishing.git git-publishing
   ```
   
 - Get the books from Github
